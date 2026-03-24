@@ -184,17 +184,6 @@ index.html   # Main application file
 
 ---
 
-## Future Improvements
-
-- Export formats (JSON, CSV)
-- Password strength visual meter
-- Custom character set input
-- PWA/offline support
-- Dark/light theme toggle
-- Clipboard auto-clear
-
----
-
 ## License
 
 MIT License
