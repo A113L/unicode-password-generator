@@ -97,13 +97,6 @@ This ensures:
 
 ---
 
-### Rate Limiting
-
-- 500ms cooldown between generations
-- Prevents UI abuse and performance issues
-
----
-
 ### Large Batch Handling
 
 - Displays summary instead of rendering >25 passwords
