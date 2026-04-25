@@ -2,6 +2,8 @@
 
 A modern, cryptographically secure password generator built with HTML, Tailwind CSS, and JavaScript. This tool allows you to generate high-entropy passwords using customizable Unicode character sets, with real-time entropy calculation and security feedback.
 
+https://hcrt.pages.dev/unigen
+
 ---
 
 ## Features
